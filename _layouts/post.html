@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="page-wrap">
+    <section class="main-content" role="main">
+      <div post class="default">
+        <div class="tablet">
+          <div class="feature-image {{ page.theme }}" style="background-image: url('/images/whole30main.jpg'); background-position: left center">
+          </div>
+        </div>
+        <h2 class="trafalgar">{{ page.title }}</h2>
+        <div class="neutral-up">
+          <h4 class="pica date">{{ page.date | date: '%B %d, %Y' }}</h4>
+        </div>
+        {{ content }}
+        <hr class="end">
+      </div>
+      <div class="tablet">
+        <div tags>
+            {% for tag in page.tags %}
+                <div tag>
+                  <a href="{{ site.url }}/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/"><span class="brevier">{{ tag }}</span></a>
+                </div>
+            {% endfor %}
+        </div>
+        {% include share.html %}
+
+      </div>
+      {% include post-nav.html %}
+    </section>
+    {% include sidebar.html %}
+  </div>
+</div>
