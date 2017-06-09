@@ -58,7 +58,8 @@
         -webkit-flex-direction: row;
         -ms-flex-direction: row;
         flex-direction: row;
-        flex-flow: flow;
+        flex-flow: row wrap;
+        flex-wrap: wrap;
         span.great-primer {
           font-size: 2rem;
         }
