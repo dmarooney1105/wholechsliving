@@ -33,3 +33,4 @@ _defaults:
   image_path: /images/placeholder.jpg
 tag_page_layout: tag
 tag_page_dir: tags
+tag_permalink_style: pretty
