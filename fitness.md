@@ -1,9 +1,9 @@
 ---
 layout: page
-hero-title: Fitness
+hero-title: FITNESS
 permalink: /fitness/
 hero_image_path: /images/fitness.jpg
-lead-in: Thoughts on Workouts, Fitness Misconceptions, and Exercise Programs
+lead-in: 'Thoughts on Workouts, Fitness Misconceptions, and Exercise Programs'
 bg-position: center
 ---
 
