@@ -138,6 +138,7 @@ h3.great-primer, span.great-primer {
 // index links, navigation bar etc (similar to h4)
 h4.pica, li.pica, a.pica {
   font-family: $primary-font;
+  text-transform: uppercase;
   font-weight: 400;
   color: inherit;
   // letter-spacing: 2px;
