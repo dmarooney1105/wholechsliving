@@ -1,6 +1,6 @@
 ---
 layout: page
-hero_image_path: /images/backgrounds/IMG_1852.jpg
+hero_image_path: /images/backgrounds/background1.jpg
 hero-title: Whole Charleston Living
 lead-in: 'Finding a wholesome & healthy life in Charleston, SC.'
 bg-position: center
