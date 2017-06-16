@@ -8,7 +8,7 @@ bg-position: center
 ---
 
 <div class="container default">
-  <h2 class="editable trafalgar text-center editable">Title Goes Here</h2>
+  <h2 class="editable trafalgar text-center editable">Studio Reviews</h2>
   <div blog-gallery="many">
     <ul>  
     {% for post in site.categories.fitness %}
@@ -21,5 +21,8 @@ bg-position: center
       </a>
     {% endfor %}
     </ul>
+  <div class="container default">
+  <h2 class="editable trafalgar text-center editable">At Home / Gym Workouts</h2>
+  <div blog-gallery="many">
   </div>
 </div>
