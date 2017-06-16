@@ -8,7 +8,7 @@ bg-position: center
 ---
 
 <div class="container default">
-  <h2 class="editable trafalgar text-center editable">Title Goes Here or Delete if You don't Think You Need one</h2>
+  <h2 class="editable trafalgar text-center editable">My First Whole 30</h2>
   <center>
   </center>
   <div blog-gallery="many">
@@ -24,7 +24,9 @@ bg-position: center
         </a>
       {% endfor %}
     </ul>
-
+  <h2 class="editable trafalgar text-center editable">Recipes</h2>
+  <center>
+  </center>
   </div>
 </div>
 
