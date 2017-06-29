@@ -269,7 +269,7 @@ h5.minion, p.minion, span.minion {
 }
 .logo {
     color: $primarycolor;
-    font-family: $secondary-font;
+    font-family: $primary-font;
     margin: 0;
     @media all and (min-width:$breakpoint-laptop) {
       font-size: 2.2rem;
