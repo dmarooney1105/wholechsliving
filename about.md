@@ -8,14 +8,6 @@ bg-position: top
 <div class="container default about">
   <div class="default">
     <h2 class="trafalgar editable text-center">About Fran</h2>
-    <p class="long-primer editable"></p>
-    <p class="long-primer editable">
-    </p>
-    <p class="long-primer editable">
-
-    </p>
-    <p class="long-primer editable">
-
-   </p>
+    <p class="long-primer editable">{{ content }}</p>
   </div>
 </div>
