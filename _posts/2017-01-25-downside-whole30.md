@@ -1,19 +1,21 @@
 ---
-layout: post
 title: The Downsides of Whole30
+date: 2017-01-25 00:00:00 Z
+categories:
+- food
+- diet
+tags:
+- food
+- diet
+- whole30
+layout: post
 listed_category: diet
 theme: food
-main_image_path: /images/whole30-poke.jpg
+main_image_path: "/images/whole30-poke.jpg"
 image-position: center
-categories:
-  - food
-  - diet
-tags:
-  - food
-  - diet
-  - whole30
-excerpt_separator: <!-- excerpt -->
+excerpt_separator: "<!-- excerpt -->"
 ---
+
 _**Note**_: *These opinions are my own and reflect my personal experience with Whole 30. This post is not meant to dissuade you from trying, just to make you aware that it is not an easy experience.*
 <br /><br />
 We’re down to the final stretch of Whole 30 (8 days to be exact – last day is Feb 2), and although I have *definitely* seen improvements in my overall health and well being, I wanted to talk about the negative aspects of Whole 30 that you may not realize before going into it:

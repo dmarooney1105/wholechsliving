@@ -1,26 +1,31 @@
 ---
-layout: post
 title: Days 16 - 17. Caving isn't Always Failure.
+date: 2017-01-20 00:00:00 Z
+categories:
+- food
+- diet
+tags:
+- caving
+- failure
+- giving in
+- getting off track
+- cheating
+- food
+- diet
+- whole30
+- travel
+- peer pressure
+layout: post
 listed_category: diet
 theme: food
-main_image_path: /images/whole30-travelpack.jpg
+main_image_path: "/images/whole30-travelpack.jpg"
 image-position: left
-categories:
-  - food
-  - diet
-tags:
-  - caving
-  - failure
-  - giving in
-  - getting off track
-  - cheating
-  - food
-  - diet
-  - whole30
-  - travel
-  - peer pressure
-excerpt: I felt guilty not drinking with my friends and I knew I’d feel guilty breaking Whole 30. It was a lose lose situation. I texted three people looking for justification in my decision to drink but only one person’s response made me feel a lot better (my co worker who has completed an entire whole 30 in the past)
+excerpt: I felt guilty not drinking with my friends and I knew I’d feel guilty breaking
+  Whole 30. It was a lose lose situation. I texted three people looking for justification
+  in my decision to drink but only one person’s response made me feel a lot better
+  (my co worker who has completed an entire whole 30 in the past)
 ---
+
 **Warning**: This is a long post.
 <br /><br />
 **Tuesday (Day 16)**:

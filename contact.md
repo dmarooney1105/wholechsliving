@@ -1,8 +1,9 @@
 ---
-layout: default
 title: Contact
-permalink: /contact/
+permalink: "/contact/"
+layout: default
 ---
+
 <div class="container default contact-page">
  <center>
   <h2 class="trafalgar text-center editable" style="margin-top: 50px;">Contact Me</h2>

@@ -1,9 +1,9 @@
 ---
+permalink: "/fitness/"
 layout: page
 hero-title: FITNESS
-permalink: /fitness/
-hero_image_path: /images/fitness.jpg
-lead-in: 'Thoughts on Workouts, Fitness Misconceptions, and Exercise Programs'
+hero_image_path: "/images/fitness.jpg"
+lead-in: Thoughts on Workouts, Fitness Misconceptions, and Exercise Programs
 bg-position: center
 ---
 

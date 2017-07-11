@@ -1,21 +1,23 @@
 ---
-layout: post
 title: LOco for Hylo
+date: 2017-03-25 00:00:00 Z
+categories:
+- hylo
+- classes
+- fitness
+- workouts
+tags:
+- fitness
+- hylo
+- classes
+layout: post
 listed_category: fitness
 theme: fitness
-main_image_path: /images/hylo-2.jpg
+main_image_path: "/images/hylo-2.jpg"
 image-position: top
-categories:
-  - hylo
-  - classes
-  - fitness
-  - workouts
-tags:
-  - fitness
-  - hylo
-  - classes
-excerpt_separator: <!-- excerpt -->
+excerpt_separator: "<!-- excerpt -->"
 ---
+
 *In short: this classes greatly surpassed my expectations! Nothing negative to say about it!*
 <!-- excerpt -->
 <br /><br />

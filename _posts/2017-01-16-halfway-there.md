@@ -1,19 +1,21 @@
 ---
-layout: post
 title: Halfway There
+date: 2017-01-16 00:00:00 Z
+categories:
+- food
+- diet
+tags:
+- food
+- diet
+- whole30
+layout: post
 listed_category: diet
 theme: food
-main_image_path: /images/whole30-bubba.jpg
+main_image_path: "/images/whole30-bubba.jpg"
 image-position: left
-categories:
-  - food
-  - diet
-tags:
-  - food
-  - diet
-  - whole30
-excerpt_separator: <!-- excerpt -->
+excerpt_separator: "<!-- excerpt -->"
 ---
+
 I’ve finally made it to the halfway point! To be honest, this whole thing has gone by pretty fast, but I’m excited to get my hands on a glass of champagne in 16 days.
 <!-- excerpt -->
 <br /><br />

@@ -1,19 +1,21 @@
 ---
-layout: post
 title: Whole30, A Blessing & A Curse
+date: 2017-01-25 00:00:00 Z
+categories:
+- food
+- diet
+tags:
+- food
+- diet
+- whole30
+layout: post
 listed_category: diet
 theme: food
-main_image_path: /images/thedaily-avocadotoast.jpg
+main_image_path: "/images/thedaily-avocadotoast.jpg"
 image-position: center
-categories:
-  - food
-  - diet
-tags:
-  - food
-  - diet
-  - whole30
-excerpt_separator: <!-- excerpt -->
+excerpt_separator: "<!-- excerpt -->"
 ---
+
 It’s been a little over a month since I finished my first Whole 30. Although I’m happy to have completed it, felt great during it, and am more “food-aware,” there are definitely some things I was not expecting to feel or experience after completion.
 <!-- excerpt -->
 <br /><br />

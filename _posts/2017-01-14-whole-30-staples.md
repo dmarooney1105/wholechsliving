@@ -1,19 +1,21 @@
 ---
-layout: post
 title: Whole 30 Staples
+date: 2017-01-14 00:00:00 Z
+categories:
+- food
+- diet
+tags:
+- food
+- diet
+- whole30
+layout: post
 listed_category: diet
 theme: food
-main_image_path: /images/whole30-zoodles.jpg
+main_image_path: "/images/whole30-zoodles.jpg"
 image-position: left
-categories:
-  - food
-  - diet
-tags:
-  - food
-  - diet
-  - whole30
-excerpt_separator: <!-- excerpt -->
+excerpt_separator: "<!-- excerpt -->"
 ---
+
 Hey everyone!
 <br /><br />
 I’ve had a much busier week than anticipated and definitely didn’t follow up with my goal of cooking more intricate / creative meals. Now that I am almost two weeks into Whole 30 I wanted to share some staple items that have helped me stay sane and able to make meals that are tasty and quick (you’ll also see some week two eats) I can get almost all items at Trader Joes, then I’ll go to Whole Foods.

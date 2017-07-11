@@ -1,22 +1,24 @@
 ---
-layout: post
 title: Hylo Highlights
-listed_category:
-  - fitness
-theme: fitness
-main_image_path: /images/IMG_2134.jpg
-image-position: top
+date: 2017-03-27 00:00:00 Z
 categories:
-  - hylo
-  - classes
-  - fitness
-  - workouts
+- hylo
+- classes
+- fitness
+- workouts
 tags:
-  - fitness
-  - hylo
-  - classes
-excerpt_separator: '<!-- excerpt -->'
+- fitness
+- hylo
+- classes
+layout: post
+listed_category:
+- fitness
+theme: fitness
+main_image_path: "/images/IMG_2134.jpg"
+image-position: top
+excerpt_separator: "<!-- excerpt -->"
 ---
+
 **Attention**: A *beautiful* new studio has opened up on Johnnie Dodds Hwy here in Mt Pleasant. With marble showers, wood flowers, and two beautifully furnished floors, this is a posh and chic studio you don't want to miss out on.
  <!-- excerpt -->
 <br /><br />
