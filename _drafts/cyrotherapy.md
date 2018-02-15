@@ -37,7 +37,7 @@ I walked in and was greeted by the nicest staff. There was also another frequent
 
 After changing into a robe, socks, gloves, and slippers, it was my time to enter. I stepped into the chamber, took off my robe, and then waited / panicked and made the staff talk to me / distract me from what was going on. I paced back and forth trying to warm myself up as my body started to get cold. Although I was literally in freezing temperatures, this kind of cold felt more like a “dry” cold, and was somewhat bearable. After a minute or so, my thighs and calves felt a numbing and almost prickly sensation which they said was completely normal. I asked over and over, “how much time is left?!” and kept pacing. (Hindsight – the next time I will try deep breathing) I made it 2 minutes and 30 seconds, then demanded to come out.
 
-&nbsp;
+![](/uploads/versions/img-1284---x----1080-1080x---.jpg)
 
 The immediate post freeze sensation reminded me of being a kid that played in the snow all day and had just come inside for hot chocolate. After being out for 2-3 minutes, I started to feel AMAZING. I was in the best mood, felt SO energized, and more flexible. Honestly every time I get in a bad mood now I think, “I should go get a freeze” because the post endorphin boost is real. I also felt less sore than I did earlier in the day, and was able to return to working out the next day. I was very impressed and no longer skeptical of cryotherapy after finally giving in and trying.
 
