@@ -1,24 +1,24 @@
 ---
 title: Cyrotherapy
-date: 2017-03-27 00:00:00
+date: 2017-03-27 00:00:00 Z
 categories:
-  - fitness
-  - workouts
-  - diet
+- fitness
+- workouts
+- diet
 tags:
-  - fitness
-  - hylo
-  - classes
-  - Cryotherapy
-  - Recovery
-  - Charleston
+- fitness
+- hylo
+- classes
+- Cryotherapy
+- Recovery
+- Charleston
 layout: post
 listed_category:
-  - fitness
+- fitness
 theme: fitness
-main_image_path: /images/IMG_1284.jpg
+main_image_path: "/images/IMG_1284.jpg"
 image-position: top
-excerpt_separator: <!-- excerpt -->
+excerpt_separator: "<!-- excerpt -->"
 ---
 
 ## **CryoEvolution:**
