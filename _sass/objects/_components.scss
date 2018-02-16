@@ -4,7 +4,7 @@
     list-style-type: none;
     color: $default;
     li:nth-child(2) {
-      margin-top: 50px;
+      margin-top: 40px;
     }
     li {
       background-color: #ffffff;
@@ -42,7 +42,7 @@
     }
     @media all and (min-width:$breakpoint-laptop) {
       li {
-        height: 400px;
+        height: 410px;
         width: 800px;
         display: -webkit-box;
         display: -moz-box;
