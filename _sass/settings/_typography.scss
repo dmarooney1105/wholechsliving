@@ -76,7 +76,6 @@ h2.trafalgar {
 // subheadings (h2 under sections) & blockquotes
 h2.double-pica, span.double-pica {
   font-family: $secondary-font;
-  letter-spacing: 2px;
   font-weight: 200;
   color: inherit;
   @media all and (min-width:$breakpoint-laptop-large){
