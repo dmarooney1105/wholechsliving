@@ -30,14 +30,15 @@ _options:
   image_path:
     width: 300
     height: 300
-    resize_style: contain
-    mime_type: image/jpeg
+    resize_style: "contain"
+    mime_type: "image/jpeg"
     expandable: true
   content:
     width: 300
     height: 300
-    resize_style: cover
-    mime_type: image/png
+    resize_style: "cover"
+    mime_type: "image/png"
+    center: center-image
   _block:
     undo: true
     redo: true
