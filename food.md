@@ -24,7 +24,7 @@ bg-position: center
         </a>
       {% endfor %}
     </ul>
-  <h2 class="editable trafalgar text-center editable">Recipes</h2>
+  <h2 class="editable trafalgar text-center editable" style="padding-top: 50px;">Recipes</h2>
   <center>
   </center>
   </div>
