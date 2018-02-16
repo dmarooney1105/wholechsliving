@@ -26,3 +26,15 @@ _defaults:
 tag_page_layout: tag
 tag_page_dir: tags
 tag_permalink_style: pretty
+_options:
+  image_path:
+    width: 75%
+    height: auto
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+  content:
+    width: 90
+    height: 120
+    resize_style: "cover"
+    mime_type: "image/png"
