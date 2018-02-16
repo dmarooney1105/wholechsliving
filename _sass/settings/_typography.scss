@@ -236,24 +236,24 @@ h5.minion, p.minion, span.minion {
   text-transform: uppercase;
   font-weight: 400;
   @media all and (min-width:$breakpoint-laptop-large){
-    font-size: 12px;
-    line-height:16px;
+    font-size: 16px;
+    line-height:18px;
   }
   @media all and (min-width:$breakpoint-laptop) and (max-width:$breakpoint-laptop-large){
-    font-size: 12px;
-    line-height:16px;
+    font-size: 16px;
+    line-height:18px;
   }
   @media all and (min-width:$breakpoint-tablet) and (max-width:$breakpoint-laptop){
-    font-size: 12px;
-    line-height:16px;
+    font-size: 16px;
+    line-height:18px;
   }
   @media all and (min-width:$breakpoint-mobile-large) and (max-width:$breakpoint-tablet){
-    font-size: 13px;
-    line-height: 16px;
+    font-size: 16px;
+    line-height: 18px;
   }
   @media all and (min-width:$breakpoint-mobile-medium) and (max-width:$breakpoint-mobile-large){
-    font-size: 12px;
-    line-height: 16px;
+    font-size: 16px;
+    line-height: 18px;
   }
   @media all and (min-width:$breakpoint-mobile-small) and (max-width:$breakpoint-mobile-medium){
     font-size: 12px;
