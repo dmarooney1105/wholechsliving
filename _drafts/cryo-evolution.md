@@ -1,20 +1,21 @@
 ---
 title: CRYO Evolution
-date: 2017-03-26 20:00:00 -0400
+date: 2017-03-27 00:00:00 Z
 categories:
-  - hylo
-  - classes
-  - fitness
-  - workouts
+- hylo
+- classes
+- fitness
+- workouts
 tags:
-  - fitness
-  - hylo
-  - classes
+- fitness
+- hylo
+- classes
 layout: post
 listed_category:
-  - fitness
+- fitness
 theme: fitness
-main_image_path: /images/IMG_2134.jpg
+main_image_path: "/images/IMG_2134.jpg"
 image-position: top
-excerpt_separator: <!-- excerpt -->
+excerpt_separator: "<!-- excerpt -->"
 ---
+
