@@ -1,9 +1,9 @@
 ---
-permalink: "/food/"
+permalink: /food/
 layout: page
 hero-title: Food
-hero_image_path: "/images/food.jpg"
-lead-in: Thoughts on Nutrition, Recipes, Program Reviews, Diets
+hero_image_path: /images/fran3.jpg
+lead-in: 'Thoughts on Nutrition, Recipes, Program Reviews, Diets'
 bg-position: center
 ---
 
