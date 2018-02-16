@@ -26,7 +26,7 @@
         font-weight: 200;
       }
       a {
-        // border: solid 1px $white;
+        border: solid 1px $white;
         border-radius: 5px;
         padding: 15px 20px 15px 20px;
         text-align: center;
@@ -35,9 +35,6 @@
         -webkit-transition: all .5s ease-out;
         -moz-transition: all .5s ease-out;
         -ms-transition: all 5s ease-out;
-            -webkit-box-shadow: 0 2px 0 1px rgba(0,0,0,.13);
-            -moz-box-shadow: 0 2px 0 1px rgba(0,0,0,.13);
-              box-shadow: 0 1px 0 1px rgba(0,0,0,.13);
       }
       a:hover {
         background-color:$highlighter;
