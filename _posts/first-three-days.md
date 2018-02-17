@@ -3,7 +3,6 @@ title: 2017 01 05 First Three Days
 ---
 
 *This was written on the beginning of Day 4. The meals shown below are super easy quick meals that anyone can make. I am not a chef and they are not meant to impress you. They were tasty though!*
-<!-- excerpt -->
 <br /><br />
 **Day 1**: Woke up like I always do, went to an AM spin class and made my first Whole 30 meal:
 <br /><br />
