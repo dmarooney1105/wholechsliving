@@ -16,7 +16,7 @@ listed_category:
 theme: fitness
 main_image_path: "/uploads/fran-1.png"
 image-position: top
-description:
+description: 
 ---
 
 ![](/uploads/versions/logo-1---x----300-70x---.png)
