@@ -20,10 +20,7 @@ listed_category: diet
 theme: food
 main_image_path: "/images/whole30-travelpack.jpg"
 image-position: left
-excerpt: I felt guilty not drinking with my friends and I knew I’d feel guilty breaking
-  Whole 30. It was a lose lose situation. I texted three people looking for justification
-  in my decision to drink but only one person’s response made me feel a lot better
-  (my co worker who has completed an entire whole 30 in the past)
+description: 
 ---
 
 **Warning**: This is a long post.
