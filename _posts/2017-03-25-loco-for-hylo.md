@@ -15,11 +15,10 @@ listed_category: fitness
 theme: fitness
 main_image_path: "/images/hylo-2.jpg"
 image-position: top
-description: 
+description:
 ---
 
 *In short: this classes greatly surpassed my expectations! Nothing negative to say about it!*
-<!-- excerpt -->
 <br /><br />
 ![Image of hylo-sign](/images/hylo-sign.jpg){: .center-image }
 <br /><br />
