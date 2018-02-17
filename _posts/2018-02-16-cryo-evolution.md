@@ -16,9 +16,7 @@ listed_category:
 theme: fitness
 main_image_path: "/uploads/fran-1.png"
 image-position: top
-excerpt_separator: I’ll never forget the first time I heard about cryotherapy. It
-  was when I watching E News and hearing the latest on Lindsay Lohan’s weight loss
-  updates. Apparently, she was one of Hollywood’s first to try out cryotherapy.
+excerpt: I’ve had a much busier week than anticipated and definitely didn’t follow up with my goal of cooking more intricate / creative meals. Now that I am almost two weeks into Whole 30 I wanted to share some staple items that have helped me stay sane and able to make meals that are tasty and quick (you’ll also see some week two eats) I can get almost all items at Trader Joes, then I’ll go to Whole Foods.
 ---
 
 ![](/uploads/versions/cryo-3---x----784-183x---.png)
