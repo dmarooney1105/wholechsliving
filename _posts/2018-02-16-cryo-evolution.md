@@ -1,26 +1,22 @@
 ---
 title: CRYO Evolution
-date: 2018-02-16 00:00:00 Z
+date: 2018-02-16 00:00:00
 categories:
-- hylo
-- classes
-- fitness
-- workouts
+  - hylo
+  - classes
+  - fitness
+  - workouts
 tags:
-- fitness
-- hylo
-- classes
+  - fitness
+  - hylo
+  - classes
 layout: post
 listed_category:
-- fitness
+  - fitness
 theme: fitness
-main_image_path: "/uploads/fran-1.png"
+main_image_path: /uploads/fran-1.png
 image-position: top
-excerpt: I’ll never forget the first time I heard about cryotherapy. It was when I
-  watching E News and hearing the latest on Lindsay Lohan’s weight loss updates. Apparently,
-  she was one of Hollywood’s first to try out cryotherapy. “You can burn 600 calories
-  in 3 minutes with temperatures below 200 degrees F!”… um WHAT! I immediately googled
-  more about it and was intrigued but turned off because I HATE being cold.
+excerpt_separator:
 ---
 
 ![](/uploads/versions/logo-1---x----300-70x---.png)
