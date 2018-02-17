@@ -1,19 +1,5 @@
 ---
-title: First Three Days
-date: 2017-01-05 00:00:00 Z
-categories:
-- food
-- diet
-tags:
-- food
-- diet
-- whole30
-layout: post
-listed_category: diet
-theme: food
-main_image_path: "/images/whole30-eggs2.jpg"
-image-position: bottom
-description: **Day 1**: Woke up like I always do, went to an AM spin class and made my first Whole 30 meal:
+title: 2017 01 05 First Three Days
 ---
 
 *This was written on the beginning of Day 4. The meals shown below are super easy quick meals that anyone can make. I am not a chef and they are not meant to impress you. They were tasty though!*
