@@ -13,7 +13,7 @@ listed_category: diet
 theme: food
 main_image_path: "/images/whole30main.jpg"
 image-position: left
-excerpt_separator: "<!-- excerpt -->"
+excerpt: **Black Coffee**: I do NOT enjoy black coffee. I just don't.  My AM work routine consists of either getting the office coffee and adding a stevia packet, or treating myself to Starbucks for a soy misto or cappucino. While I drink that cup of coffee I usually catch up on emails, plan my day, and get my mind ready for what's ahead. Black coffee just doesn't do it for me and this morning ritual might not be as enjoyable as it was pre Whole 30.
 ---
 
 What I predict to find most difficult during Whole 30:<br /><br />
