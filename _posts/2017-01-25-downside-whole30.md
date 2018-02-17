@@ -13,14 +13,13 @@ listed_category: diet
 theme: food
 main_image_path: "/images/whole30-poke.jpg"
 image-position: center
-excerpt_separator: "<!-- excerpt -->"
+description: 
 ---
 
 _**Note**_: *These opinions are my own and reflect my personal experience with Whole 30. This post is not meant to dissuade you from trying, just to make you aware that it is not an easy experience.*
 <br /><br />
 We’re down to the final stretch of Whole 30 (8 days to be exact – last day is Feb 2), and although I have *definitely* seen improvements in my overall health and well being, I wanted to talk about the negative aspects of Whole 30 that you may not realize before going into it:
 <br /><br />
-<!-- excerpt -->
 * {: .long-primer } **Being Hangry**: The worst point for me on Whole 30 was my work trip to Richmond. Even though I brought my own snacks, I did not predict being unable to eat almost all the food we were given. The result? I spent 48 hours living on RX bars, and fruit, feeling totally unsatisfied and extremely hungry watching my co workers eating delicious looking sandwiches, salads, cookies etc. So this is a warning that there might be quite a few times where the snacks you packed weren’t enough, the meals didn’t fill you up like you hoped, or you just are so tired of the food you’ve been making you’re dying for something more. So, if you have to travel for work and don’t have the flexibility to go to restaurants and are forced to eat buffet food, here’s **My advice to you**:
 <br /><br />
   * {: .long-primer } **Do your best!** Buffet food is difficult because most of the time the waiters and chefs don’t know the ingredients, but try to focus on meals and snacks that have a high protein/fat ratio. RX bars are an OK quick fix, same with fruit, but if you’re eating only those two you’re not getting sufficient protein and fat and are eating too much sugar.
