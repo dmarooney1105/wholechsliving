@@ -18,7 +18,7 @@ bg-position: center
             <span class="listed_category">{{ post.category }}</span><br>
             <span class="great-primer">{{ post.title }}</span>
             <hr>
-            <span class="long-primer">{{ post.excerpt | truncatewords:20}}</span>
+            <span class="long-primer">{{ post.description | truncatewords:30}}</span>
             <a href="{{ post.url }}" class="generic">Read More</a>
           </div>
           <div class="preview" style="background-position: center {{ post.image-position }}; background-image: url('{{ post.main_image_path }}');">
