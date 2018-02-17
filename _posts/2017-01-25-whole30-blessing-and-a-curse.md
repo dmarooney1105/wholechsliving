@@ -13,11 +13,10 @@ listed_category: diet
 theme: food
 main_image_path: "/images/thedaily-avocadotoast.jpg"
 image-position: center
-description: 
+description: It’s been a little over a month since I finished my first Whole 30. Although I’m happy to have completed it, felt great during it, and am more “food-aware,” there are definitely some things I was not expecting to feel or experience after completion.
 ---
 
 It’s been a little over a month since I finished my first Whole 30. Although I’m happy to have completed it, felt great during it, and am more “food-aware,” there are definitely some things I was not expecting to feel or experience after completion.
-<!-- excerpt -->
 <br /><br />
 ![Image of spinach salmon and cauliflower](/images/whole30-salmon-cauli.jpg){: .center-image }
 <br /><br />
