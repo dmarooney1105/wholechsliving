@@ -13,7 +13,7 @@ listed_category: diet
 theme: food
 main_image_path: "/images/whole30-bubba.jpg"
 image-position: left
-excerpt_separator: "<!-- excerpt -->"
+description: 
 ---
 
 I’ve finally made it to the halfway point! To be honest, this whole thing has gone by pretty fast, but I’m excited to get my hands on a glass of champagne in 16 days.
