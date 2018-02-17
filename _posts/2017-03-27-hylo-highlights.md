@@ -1,25 +1,24 @@
 ---
 title: Hylo Highlights
-date: 2017-03-27 00:00:00
+date: 2017-03-27 00:00:00 Z
 categories:
-  - hylo
-  - classes
-  - fitness
-  - workouts
+- hylo
+- classes
+- fitness
+- workouts
 tags:
-  - fitness
-  - hylo
-  - classes
+- fitness
+- hylo
+- classes
 layout: post
 listed_category:
-  - fitness
+- fitness
 theme: fitness
-main_image_path: /images/IMG_2134.jpg
+main_image_path: "/images/IMG_2134.jpg"
 image-position: top
-description: >-
-  Attention: A beautiful new studio has opened up on Johnnie Dodds Hwy here in
-  Mt Pleasant. With marble showers, wood flowers, and two beautifully furnished
-  floors, this is a posh and chic studio you don't want to miss out on.
+description: 'Attention: A beautiful new studio has opened up on Johnnie Dodds Hwy
+  here in Mt Pleasant. With marble showers, wood flowers, and two beautifully furnished
+  floors, this is a posh and chic studio you don''t want to miss out on.'
 ---
 
 **Attention**: A *beautiful* new studio has opened up on Johnnie Dodds Hwy here in Mt Pleasant. With marble showers, wood flowers, and two beautifully furnished floors, this is a posh and chic studio you don't want to miss out on.<br><br>![Image of hylo-bathroom](/images/hylo-bathroom.jpg){: .center-image}<br><br>First off, [Hylo](https://www.hylofitness.com/) has an excellent business plan that I'm shocked no one else has implemented at this point. The name [Hylo](https://www.hylofitness.com/) represents the two classes they offer: a high intensity class focused on cardio and strength (think HIIT workouts), and a low intensity class focused on flexibility, balance, and control (yoga, barre, pilates). **Boom**, best of both worlds under one roof without you having to ever think or plan a workout.<br><br>![Image of hylo-friends](/images/hylo-friends.jpg){: .center-image}<br><br>After attending the [Hylo](https://www.hylofitness.com/) Grand Opening party I was ecstatic to try my first class on Tuesday. Walking in like a kid on Christmas, I was immediately greeted and impressed the all staff remembered me from the weekend before (props to good customer service). All users have the option to purchase and wear a polar heart rate monitor during workouts to measure how hard they're pushing themselves. The first class I took was a Hy intensity class.<br><br>All Hy classes are split into two sections: Sculpt and Burn. Sculpt incorporates strength circuits. Equipment for the sculpt section includes TRX bands, battle ropes, bosus, weights, kettlebells, and smash balls. Sculpt was created to increase muscle definition thus speeding up your metabolism. Burn refers to the cardio portion that uses the water rower or bike, intending to burn fat by guiding you through a workout that both increases and decreases your heart rate, keeping your body guessing!<br><br>![Image of hylo-studio](/images/hylo-studio1.jpg){: .center-image}<br><br>I walked in and the class was split into four 8 minute blocks. I loved how the room featured dark lighting (if that makes sense) so you know no one is aggressively watching you. We started off with a 5 min warm up, half of us on bikes, and half on rowers. From there we split up. For me, the class went as follows:<br><br>**Block 1 (8 min)**:<br>\* {: .long-primer }  12 squat to shoulder press with kettle bell (10,20, or 35 lbs, I used 20)\* {: .long-primer }  12 kettle bell swings (used 20 lbs)\* {: .long-primer }  12 sumo squat to chest raise (35 lbs)\* {: .long-primer }  After every minute the coach instructed us to put our weights down and do 12 bench hop-overs, then resume where we left off<br><br>![Image of hylo-studio](/images/hylo-studio2.jpg){: .center-image}<br><br>
