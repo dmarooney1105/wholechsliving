@@ -169,11 +169,13 @@ h4.pica, li.pica, a.pica {
 }
 
 // body
+p {
+    padding-bottom: 15px;
+}
 p, p.long-primer, li.long-primer, span.long-primer, li, ol {
   font-family: $body-font;
   color: inherit;
   font-weight: 400;
-  margin-bottom: 10px;
   @media all and (min-width:$breakpoint-laptop-large){
     font-size: 18px;
     line-height:22px;
