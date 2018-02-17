@@ -16,11 +16,10 @@ listed_category:
 theme: fitness
 main_image_path: "/images/IMG_2134.jpg"
 image-position: top
-description: 
+description:
 ---
 
 **Attention**: A *beautiful* new studio has opened up on Johnnie Dodds Hwy here in Mt Pleasant. With marble showers, wood flowers, and two beautifully furnished floors, this is a posh and chic studio you don't want to miss out on.
- <!-- excerpt -->
 <br /><br />
 ![Image of hylo-bathroom](/images/hylo-bathroom.jpg){: .center-image }
 <br /><br />
