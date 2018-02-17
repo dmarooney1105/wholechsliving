@@ -1,25 +1,24 @@
 ---
 title: CRYO Evolution
-date: 2018-02-16 00:00:00
+date: 2018-02-16 00:00:00 Z
 categories:
-  - hylo
-  - classes
-  - fitness
-  - workouts
+- hylo
+- classes
+- fitness
+- workouts
 tags:
-  - fitness
-  - hylo
-  - classes
+- fitness
+- hylo
+- classes
 layout: post
 listed_category:
-  - fitness
+- fitness
 theme: fitness
-main_image_path:
+main_image_path: 
 image-position: top
-excerpt_separator: >-
-  I’ll never forget the first time I heard about cryotherapy. It was when I
-  watching E News and hearing the latest on Lindsay Lohan’s weight loss updates.
-  Apparently, she was one of Hollywood’s first to try out cryotherapy.
+excerpt_separator: I’ll never forget the first time I heard about cryotherapy. It
+  was when I watching E News and hearing the latest on Lindsay Lohan’s weight loss
+  updates. Apparently, she was one of Hollywood’s first to try out cryotherapy.
 ---
 
 ![](/uploads/versions/cryo-3---x----784-183x---.png)
