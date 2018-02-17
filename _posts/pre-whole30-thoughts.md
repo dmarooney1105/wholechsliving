@@ -5,7 +5,6 @@ title: 2017 01 04 Pre Whole30 Thoughts
 What I predict to find most difficult during Whole 30:<br /><br />
 **Black Coffee**: I do NOT enjoy black coffee. I just don't.  My AM work routine consists of either getting the office coffee and adding a stevia packet, or treating myself to Starbucks for a soy misto or cappucino. While I drink that cup of coffee I usually catch up on emails, plan my day, and get my mind ready for what's ahead. Black coffee just doesn't do it for me and this morning ritual might not be as enjoyable as it was pre Whole 30.
 <br /><br />
-<!-- excerpt -->
 **Turkey Sandwiches**: I LOVE a good turkey sandwich. I will most definitely miss these throughout all of Whole 30. Enough Said.<br /><br />
 **Alcohol**: Luckily most of my closest friends are detoxing in some way that involves not drinking for the month of January. I am SUPER thankful for this so I won't be tempted to go out or feel FOMO. I'm not a daily drinker but 2-3 nights of the week you'll tend to find me with some kind of alcoholic drink in hand. <br /><br />
 **Free Samples**: It may seem silly, but my favorite part of going to the grocery store is getting free samples. Unless it's fruit, the dessert, bread, hummus dip, and meat trays will be off limits at harris teeter.<br /><br />
