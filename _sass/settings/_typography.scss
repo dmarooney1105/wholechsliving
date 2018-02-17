@@ -169,7 +169,7 @@ h4.pica, li.pica, a.pica {
 }
 
 // body
-p, p.long-primer, li.long-primer, span.long-primer {
+p, p.long-primer, li.long-primer, span.long-primer, li, ol {
   font-family: $body-font;
   color: inherit;
   font-weight: 400;
@@ -307,3 +307,5 @@ span.category {
   letter-spacing: 2px;
   font-size: 1rem;
 }
+
+ 
