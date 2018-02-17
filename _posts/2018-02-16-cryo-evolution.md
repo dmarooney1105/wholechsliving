@@ -21,9 +21,11 @@ excerpt_separator: I’ll never forget the first time I heard about cryotherapy.
   updates. Apparently, she was one of Hollywood’s first to try out cryotherapy.
 ---
 
-![](/uploads/versions/cryo-3---x----784-183x---.png)
+&nbsp;
 
-I’ll never forget the first time I heard about cryotherapy. It was when I watching E News and hearing the latest on Lindsay Lohan’s weight loss updates. Apparently, she was one of Hollywood’s first to try out cryotherapy. &nbsp;“You can burn 600 calories in 3 minutes with temperatures below 200 degrees F!”… um WHAT! I immediately googled more about it and was intrigued but turned off because I HATE being cold.
+![](/uploads/versions/cryo-3-1---x----784-183x---.png)
+
+I’ll never forget the first time I heard about cryotherapy. It was when I watching E News and hearing the latest on Lindsay Lohan’s weight loss updates. Apparently, she was one of Hollywood’s first to try out cryotherapy. “You can burn 600 calories in 3 minutes with temperatures below 200 degrees F!”… um WHAT! I immediately googled more about it and was intrigued but turned off because I HATE being cold.
 
 Flash forward 3.5 years later and CryoEvolution opened up in Charleston. Again, I was intrigued, but honestly thought I would be one of those freak cases where I passed out and froze to death in the chamber because I couldn’t bear the freezing temperatures. A few months after opening, the owner reached out to me to see if I wanted to come in and try it because of its many holistic benefits. After going back and forth, I finally agreed to make a visit, ironically in the middle of winter after Charleston’s random snow storm. &nbsp;I was really sore at the time and desperate to relieve some of that inflammation, so figured why not.
 
