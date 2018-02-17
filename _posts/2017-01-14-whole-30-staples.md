@@ -13,7 +13,12 @@ listed_category: diet
 theme: food
 main_image_path: "/images/whole30-zoodles.jpg"
 image-position: left
-excerpt: I’ve had a much busier week than anticipated and definitely didn’t follow up with my goal of cooking more intricate / creative meals. Now that I am almost two weeks into Whole 30 I wanted to share some staple items that have helped me stay sane and able to make meals that are tasty and quick (you’ll also see some week two eats) I can get almost all items at Trader Joes, then I’ll go to Whole Foods.
+excerpt: I’ve had a much busier week than anticipated and definitely didn’t follow
+  up with my goal of cooking more intricate / creative meals. Now that I am almost
+  two weeks into Whole 30 I wanted to share some staple items that have helped me
+  stay sane and able to make meals that are tasty and quick (you’ll also see some
+  week two eats) I can get almost all items at Trader Joes, then I’ll go to Whole
+  Foods.
 ---
 
 Hey everyone!
