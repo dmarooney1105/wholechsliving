@@ -3,7 +3,7 @@ permalink: /food/
 layout: page
 hero-title: Food
 hero_image_path: /images/fran3.jpg
-lead-in: 'My health, trending nutrition topics, and Recipes!'
+lead-in: 'My health, trending nutrition topics, and recipes!'
 bg-position: center
 ---
 
