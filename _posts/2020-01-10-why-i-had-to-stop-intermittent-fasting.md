@@ -1,19 +1,18 @@
 ---
-title: First Three Days
-date: 2017-01-05 00:00:00 Z
+title: Why I had to stop Intermittent Fasting
+date: 2020-01-10 00:00:00
 categories:
-- food
-- diet
+  - food
+  - diet
 tags:
-- food
-- diet
-- whole30
+  - food
+  - diet
 layout: post
-listed_category: diet
+listed_category: Diet
 theme: food
-main_image_path: "/images/whole30-eggs2.jpg"
+main_image_path: /uploads/IMG_3206.JPG
 image-position: bottom
-description: 
+description:
 ---
 
 *This was written on the beginning of Day 4. The meals shown below are super easy quick meals that anyone can make. I am not a chef and they are not meant to impress you. They were tasty though!*
