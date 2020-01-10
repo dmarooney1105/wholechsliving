@@ -11,7 +11,7 @@ layout: post
 listed_category: Diet
 theme: food
 main_image_path: /uploads/IMG_3206.JPG
-image-position: bottom
+image-position: top
 description: >-
   IF is all the rage right now... I used to do it too, until it ended up hurting
   me more than benefitting me. It's not for everyone, and I'm an example of why!
