@@ -1,8 +1,8 @@
 ---
 layout: page
-hero_image_path: "/images/backgrounds/franimage.jpg"
+hero_image_path: /images/backgrounds/fran.jpg
 hero-title: Whole Charleston Living
-lead-in: Finding a wholesome & healthy life in Charleston, SC.
+lead-in: 'Finding a wholesome & healthy life in Charleston, SC.'
 bg-position: center
 ---
 
