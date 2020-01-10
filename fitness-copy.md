@@ -2,8 +2,8 @@
 permalink: /Wellness
 layout: page
 hero-title: Wellness
-hero_image_path: /images/IMG_3206.JPG
-lead-in: My Health Journey
+hero_image_path: /images/backgrounds/IMG_1852.jpg
+lead-in: My Experiences and Opinions on Trending Health Topics
 bg-position: center
 ---
 
