@@ -1,5 +1,5 @@
 ---
-permalink: /Wellness
+permalink: /Wellness/
 layout: page
 hero-title: Wellness
 hero_image_path: /images/backgrounds/IMG_1852.jpg
