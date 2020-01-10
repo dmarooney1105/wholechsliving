@@ -12,7 +12,9 @@ listed_category: Diet
 theme: food
 main_image_path: /uploads/IMG_3206.JPG
 image-position: bottom
-description:
+description: >-
+  IF is all the rage right now... I used to do it too, until it ended up hurting
+  me more than benefitting me. It's not for everyone, and I'm an example of why!
 ---
 
 *This was written on the beginning of Day 4. The meals shown below are super easy quick meals that anyone can make. I am not a chef and they are not meant to impress you. They were tasty though!*
