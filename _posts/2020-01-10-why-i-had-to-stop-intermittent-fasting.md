@@ -8,7 +8,7 @@ tags:
   - food
   - diet
 layout: post
-listed_category: Diet
+listed_category: Wellness
 theme: food
 main_image_path: /uploads/IMG_3206.JPG
 image-position: top
