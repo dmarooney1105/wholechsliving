@@ -2,10 +2,8 @@
 title: Why I had to stop Intermittent Fasting
 date: 2020-01-10 00:00:00
 categories:
-  - food
-  - diet
+  - Wellness
 tags:
-  - food
   - diet
 layout: post
 listed_category: Wellness
@@ -19,7 +17,7 @@ description: >-
 
 *Disclaimer: I'm not shaming or denying there are benefits to Intermittent Fasting. I am just raising awareness that we're all unique and not every wellness trend works for everyone at a given point in time. There are a LOT of factors to consider and not overlook when considering making changes to your daily life\! I also tried this at a time in my life when I had just stopped birth control, had no idea if I even had a regular period yet, and was exercising a lot in the form of HIIT.&nbsp;*
 
----{: .splitter}
+—
 
 Intermittent Fasting has been a trending and “it” topic of wellness for over the last year. While there are many proven scientific health benefits, it is not, for everyone, and it most certainly was not for me.
 {: .center-image}
